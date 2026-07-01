@@ -46,4 +46,5 @@ PCB Transmitter(ESP32 Based)-
 PCB Transmitter(ESP32 Baesed) With Case-
 
 
-<img width="623" height="557" alt="Screenshot 2026-07-01 at 1 27 14 AM" src="https://github.com/user-attachments/assets/a45b9601-7dd3-4fed-bc5c-64c55615820f" />
+<img width="779" height="612" alt="Screenshot 2026-07-01 at 2 05 06 AM" src="https://github.com/user-attachments/assets/f0701d62-3d0d-4118-8ffd-4d4af05fdc22" />
+
