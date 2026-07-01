@@ -1,7 +1,7 @@
 # eSole
 ## The idea
 <img width="1086" height="530" alt="image" src="https://github.com/user-attachments/assets/eca6c27c-9289-4cb8-bb7a-b8c3577ed47e" />
-All of these moments were showstopping and unexpected moments in the NBA for the wrong reasons. When the sports entertainment industry it built around creating these emotions Achilles Tears, ACL injuries, and permanent knee issues were not how they intended to create those emotions. Like many injuries, leg injuries as well benefit greatly from early detection but many players and people too don't know when things start to go wrong until they actually do. If only there was a unnoticable shoesole that can tell atheletes and people what is wrong with their mechanics.
+All of these moments were showstopping and unexpected moments in the NBA for the wrong reasons. When the sports entertainment industry id built around creating these emotions: Achilles Tears, ACL injuries, and permanent knee issues were not how they intended to create those emotions. Like many injuries, leg injuries as well benefit greatly from early detection but many players and people too don't know when things start to go wrong until they actually do. If only there was a unnoticable shoesole that can tell atheletes and people what is wrong with their mechanics.
 
 ## Now there is!
 <img width="1019" height="631" alt="image" src="https://github.com/user-attachments/assets/56fcf4b7-50b7-466d-8c2a-c53b954fa26f" />
