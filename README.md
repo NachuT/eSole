@@ -5,7 +5,7 @@ All of these moments were showstopping and unexpected moments in the NBA for the
 
 ## Now there is!
 <img width="1019" height="631" alt="image" src="https://github.com/user-attachments/assets/56fcf4b7-50b7-466d-8c2a-c53b954fa26f" />
-**eSole** is a flex PCB + Rigid PCB that measures capacitance between 2 halves of the flex PCB around foam to detect when and where pressure on the foot is being applied and where it is being applied.
+eSole is a flex PCB + Rigid PCB that measures capacitance between 2 halves of the flex PCB around foam to detect when and where pressure on the foot is being applied and where it is being applied.
 
 Features:
 - ESP32 for processing and sending analytics via bluetooth
